@@ -9,6 +9,9 @@
 </head>
 <body>
     <div class="container">
+        <div class="logo-container">
+            <img src="images/pcWorld-logo.png" alt="Logo Magazin" class="logo" >
+        </div>
         <div class="header">
             <h1>Bun venit la Magazinul Nostru Online!</h1>
             <p>Servicii de calitate pentru clienții nostri pretuiti</p>
