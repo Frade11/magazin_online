@@ -69,6 +69,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plaseaza Comanda - Magazin Online</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/pcWorld-logo.png">
 </head>
 <body>
     <div class="container">
